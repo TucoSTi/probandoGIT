@@ -1,4 +1,3 @@
-HOLA
-QUE TAL
-HASTA LUEGO
-NOS VEMOS
+Hello there
+Your move
+So uncivilized
